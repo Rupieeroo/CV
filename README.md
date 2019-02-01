@@ -51,10 +51,10 @@ I am fascinated by technological advancement and embrace new ideas and concepts 
 
 Most of my life has been spent in and around the theatre. I have worked in every capacity: an actor, a director, a writer and a producer and, sometimes, a mix of all of them. This has helped me develop an 'out of the box' mentality to problem-solving and creation.
 
-- I breifly kept a blog to experiment with writing during my year in Europe, utilizing my creative thinking:
+1.) I breifly kept a blog to experiment with writing during my year in Europe, utilizing my creative thinking:
   http://pufferandsauce.blogspot.com/
   
-- A section of a review I wrote for the Slovenian National Theatre Festival (Boštnikovo) on their website:
+2.) A section of a review I wrote for the Slovenian National Theatre Festival (Boštnikovo) on their website:
   https://www.2010-2016.borstnikovo.si/en/news-festival-2015/our-guestss-opinions-are-here/
 
 - **Massive geek**
