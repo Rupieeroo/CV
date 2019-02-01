@@ -1,20 +1,55 @@
 ## Rupert Adams
 
-Having trained at the National Youth Theatre of Great Britain and spending my early years treading the boards, I began my journey towards development by attempting to make a rehearsal app for actors with a friend of mine. The idea being that actors could record their lines into a digital script and have the other characters lines (recorded by other actors) play on their ques, meaning that you could rehearse your role at any time, anywhere. This idea was completely original and would be wanted by everyone, it was going to be an instant overnight success!
+### Technologies and Processes
 
-As it turns out its a bit harder than we first thought to make an idea like this into something really tangable. Also I still couldn't code. After several years of this, some of which were margonally successful as we ended up working with Hambro Perks Ltd to work out our rapid growth strategy, we put 'Act One' to the side for now and I decided to travel around Europe with just my wife and my motorcycle. While out there I spent my free time learning to code. Starting with HTML, CSS, then working through Javascript and Solidity. Upon my return to London I knew what direction I was heading in and applied for Makers Academy. Joining the October 2018 cohort and graduating as a Full-Stack Developer.
+- Ruby, Rails, JavaScript, React, Python
+- RSpec, Jasmine, pytest
+- OOP, TDD, MVC, DDD
+- Agile/XP
 
+## Bio
 
+I am a Full-stack software developer with an interest in consistant learning, data visualisation, clean code and using tech for good. I believe in transparancy, communication and open-source development.
+
+Having trained at the National Youth Theatre of Great Britain and spending my early years treading the boards, I began my journey towards development by attempting to make a rehearsal app for actors with a friend of mine. The idea being that actors could record their lines into a digital script and have the other characters lines (recorded by other actors) play on their ques, meaning that you could rehearse your role at any time, anywhere. I was in charge of marketing, research and building the professional connections around our product. We partnered with MBJ London for the UX design.
+
+We ended up working with Hambro Perks Ltd to work out our rapid growth strategy which was an enlightening and exilerating experience. After several years of both personal and product development, me and my partner decided to put Act One to one side while we focus on our own growth. I decided to travel around Europe with just my wife and my motorcycle. While out there I spent my free time learning to code. Starting with HTML, CSS, then working through Javascript and Solidity. Upon my return to London I knew what direction I was heading in and applied for Makers Academy. Joining the October 2018 cohort and graduating as a Full-Stack Developer.
+
+#### Makers Academy (October 2018 - December 2018)
+
+- **Curious and passionate about code** - https://github.com/Rupieeroo/Fizz-Buzz-in-Python
+
+  My first step towards Python mastery (this sounded less weird in my head). A Test-driven Fizz Buzz Challenge in the Python     language, after learning React I will be moving onto Python courses.
+
+- **Fast, independent learner** - https://github.com/Rupieeroo/React-Testing
+ 
+  This is my React playground, currently I am spending 2 hours a day teaching myself React through a Udemy Course. From here I   am planning on creating a single-page portfolio site. 
+  
+- **Great collaborator** - https://github.com/Rupieeroo/developer-pub-quiz
+
+  My group's final project for Makers Academy is a two-player pub quiz that was developed by a team of four. None of us had     much experience with React and i certainly didn't understand how to integrate APIs but we managed to pull the app off within   a two week period utilizing Agile development processes.
 
 ## Skills
 
-- Creative Thinking and Writing
+- Adaptability and adept at self-management under pressure 
+
+- A genuine love and curiosity for technology and its advancement
+
+- Team-oriented (4 years of trying to make an app from nothing with just one other person every day has taught me a lot about synergy!)
 
 - Encyclopedic knowledge of Lovecraft, Video Game Lore and Eastern-European History (Ask me about the Battle of Karánsebes)
 
 - Communication & Candor
 
-- Team player (3 years of trying to make an app from 0 with one other person every day has taught me a lot about synergy!)
+- Creative Thinking and Writing
+
+#### Communication & Candor
+
+In between theatre jobs (and the occasional tv job which I hope will dissapear quietly into my past), I worked many varied service jobs. From working for a high-end catering company, searving giant corperate events, to award-winning and unbelieveably busy pubs, to quiet gin bars to theatre ushering. Across all of these jobs I have picked up and learnt that the single most important skill in any service job is communication. Most of the time things have to happen at lightning speed and if someone doesn't know something it can collapse the entire event. I like to think I have developed a good understanding of theimportance of communicating, especially when the pressure sets in.
+
+I also speak conversational Hungarian. Which in itself is a communication feat I still can't believe I've accomplished!
+
+I also spent many years keeping how I fealt in any situation to myself, believing that it shouldn't matter to anyone but me. Over time I learnt that being candid and open about what i am thinking and feeling has changed the way I see myself and helped me in every aspect of my life. This is an attitude that underlines everything I do and I take honesty as one of the most important skills I have developed.
 
 #### Creative Thinking and Writing
 
@@ -28,47 +63,15 @@ What I learnt during these years is that theatre is about relaying a message and
 - A section of a review I wrote for the Slovenian National Theatre Festival (Boštnikovo) on their website:
   https://www.2010-2016.borstnikovo.si/en/news-festival-2015/our-guestss-opinions-are-here/
 
-
-#### Communication & Candor
-
-In between theatre jobs (and the occasional tv job which I hope will dissapear quietly into my past), I worked many varied service jobs. From working for a high-end catering company, searving giant corperate events, to award-winning and unbelieveably busy pubs, to quiet gin bars to theatre ushering. Across all of these jobs I have picked up and learnt that the single most important skill in any service job is communication. Most of the time things have to happen at lightning speed and if someone doesn't know something it can collapse the entire event. I like to think I have developed a good understanding of theimportance of communicating, especially when the pressure sets in.
-
-I also speak conversational Hungarian. Which in itself is a communication feat I still can't believe I've accomplished!
-
-I also spent many years keeping how I fealt in any situation to myself, believing that it doesn't matter to anyone but me. Over time I learnt that being candid and open about what i am thinking and feeling has changed the way I see myself and helped me in every aspect of my life. This is an attitude that underlines everything I do and I take honesty as the most important skill I have developed.
-
-
 ## Education
 
-- Bedales School
-
-- Alton College
+- Makers Academy
 
 - National Youth Theatre of Great Britain
 
-#### Makers Academy (October 2018 - December 2018)
+- Alton College
 
-- Curious and passionate about code:
-
-  https://github.com/Rupieeroo/Fizz-Buzz-in-Python
-  My first step towards Python mastery (this sounded less weird in my head). A Test-driven Fizz Buzz Challenge in the Python     language, after learning React I will be moving onto Python courses.
-
-- Fast, independent learner:
-  
-  https://github.com/Rupieeroo/React-Testing
-  This is my React playground, currently I am spending 2 hours a day teaching myself React through a Udemy Course. From here I   am planning on creating a single-page portfolio site. 
-  
-- Great collaborator 
-
-  https://github.com/Rupieeroo/developer-pub-quiz
-  My group's final project for Makers Academy is a two-player pub quiz that was developed by a team of four. None of us had     much experience with React and i certainly didn't understand how to integrate APIs but we managed to pull the app off within   a two week period utilizing Agile development processes.
-
-### Technologies and Processes
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, React, Python
-- RSpec, Jasmine, pytest
+- Bedales School
 
 #### Hobbies and Other Skills.
 
