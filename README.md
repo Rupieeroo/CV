@@ -2,11 +2,22 @@
 
 ### Technologies and Processes
 
-- Ruby, Rails, JavaScript, React, Python
-- RSpec, Jasmine, pytest
-- OOP, TDD, MVC, DDD
-- Agile/XP
+- **Ruby, Rails, JavaScript, React, Python**
 
+  I have spent the last four months learning Ruby and Ruby on Rails for back-end and Javascript, with frameworks such as         JQuery and React for the front-end development. From here I am teaching myself more advanced React skills, data structures     in Javascript and eventually will move onto learning more python.
+  
+- **RSpec, Jasmine, Cypress, pytest**
+
+  I test drive all of my code to the best of my ability and thoroughly enjoy using tests as specification and passing said       tests.
+  
+- **OOP, TDD, MVC, DDD**
+
+  Having gotten to grips with various programming processes and concepts, I enjoy keeping my code manageable, readable and       meaningful. The ability to create complex systems from simple ones and then be able to brake them down again is something I   strive for in every project I work on.
+
+- **Agile Develpment**
+
+  I work well under pressure and with responsibility and cannot wait to work within an agile environment.
+  
 ## Bio
 
 I am a Full-stack software developer with an interest in consistant learning, data visualisation, clean code and using tech for good. I believe in transparancy, communication and open-source development.
