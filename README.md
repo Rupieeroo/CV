@@ -50,7 +50,7 @@ My belief is that communication is key to growth. Whether that is in a team, a r
 
 - **Adaptability and self-management under pressure**
 
-Performance, running a start-up and service industry experience has taught me how to manage while under pressure.
+Running a start-up and service industry experience has taught me how to manage my time and energy while under pressure.
 
 - **Team-Oriented progress**
 
