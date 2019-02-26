@@ -20,7 +20,7 @@
   
 ## Bio
 
-I am a Full-stack software developer with an interest in consistant learning, data visualisation, clean code and using tech for good. I believe in transparancy, communication and open-source development.
+I am a Full-stack software developer with an interest in consistent learning, data visualisation, clean code and using tech for good. I believe in transparency, communication and open-source development.
 
 Having trained at the National Youth Theatre of Great Britain and spending my early years treading the boards, I began my journey towards development by attempting to make a rehearsal app for actors with a friend of mine. The idea being that actors could record their lines into a digital script and have the other characters lines (recorded by other actors) play on their cues, meaning that you could rehearse your role at any time, anywhere. I was in charge of marketing, research and building the professional connections around our product. We partnered with [MBJ London](https://mbj.london/ "MBJ London") for the UX design.
 
