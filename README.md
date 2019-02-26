@@ -26,7 +26,7 @@ Having trained at the National Youth Theatre of Great Britain and spending my ea
 
 [Act One Interactive's current site](https://www.actoneinteractive.co.uk/)
 
-We ended up working with [Hambro Perks Ltd](https://www.hambroperks.com/ "Hambro Perks Ltd") to work out our rapid growth strategy which was an enlightening and exilerating experience. After several years of both personal and product development, me and my partner decided to put Act One to one side while we focus on our own growth. I decided to travel around Europe with just my wife and my motorcycle. While out there I spent my free time learning to code. Starting with HTML, CSS, then working through Javascript and Solidity. Upon my return to London I knew what direction I was heading in and applied for Makers Academy. Joining the October 2018 cohort and graduating as a Full-Stack Developer.
+We ended up working with [Hambro Perks Ltd](https://www.hambroperks.com/ "Hambro Perks Ltd") to work out our rapid growth strategy which was an enlightening and exhilerating experience. After several years of both personal and product development, me and my partner decided to put Act One to one side while we focus on our own growth. I decided to travel around Europe with just my wife and my motorcycle. While out there I spent my free time learning to code. Starting with HTML, CSS, then working through Javascript and Solidity. Upon my return to London I knew what direction I was heading in and applied for Makers Academy. Joining the October 2018 cohort and graduating as a Full-Stack Developer.
 
 #### Makers Academy (October 2018 - December 2018)
 
