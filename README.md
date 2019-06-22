@@ -1,7 +1,13 @@
 ## Rupert Adams
 
 ### Technologies and Processes
-
+| Projects         | Description                                                                                                         | Technology                                         | GitHub                                          | Site                                        |
+|------------------|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------------------------------------------|---------------------------------------------|
+| Expensify App    | An Expenses manager web app built in React with Redux.                                                              | React, Redux, Node.JS, Webpack, SCSS, Jest, Enzyme | [GitHub](https://github.com/Rupieeroo/Expensify-App)      | [Expensify](https://expensify-app-rupiee.herokuapp.com/) |
+| Portfolio Site   | A Portfolio Site in progress utilising what I have learnt in React.                                                 | React, Node.JS, Webpack, SCSS                      | [GitHub](https://github.com/Rupieeroo/Portfolio-Learning) | N/A (soon!)                                 |
+| Indecision App   | A web app that chooses an option out of a list you give it to help you make difficult choices!                      | React, Node.JS, Webpack, SCSS                      | [GitHub](https://github.com/Rupieeroo/Indecision-App)     | N/A (soon!)                                 |
+| Gilded Rose Kata | A coding challenge written in Ruby, splitting a 47 line 'if' statement into manageable and easily changeable files. | Ruby, RSpec, Rubocop                               | [GitHub](https://github.com/Rupieeroo/Gilded-Rose)        | N/A                                         |
+| Solidity Inbox   | A simple Solidity contract to experiment with Ethereum protocals.                                                   | JavaScript, Solidity                               | [GitHub](https://github.com/Rupieeroo/Inbox-sol)          | N/A                                         |
 - **Ruby, Rails, JavaScript, React, Python**
 
   I have spent the last four months learning Ruby and Ruby on Rails for back-end and Javascript, with frameworks such as         JQuery and React for the front-end development. From here I am teaching myself more advanced React skills, data structures     in Javascript and eventually will move onto learning more python.
