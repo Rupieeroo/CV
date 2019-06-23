@@ -1,6 +1,8 @@
 ## Rupert Adams
 
 ### Technologies and Processes
+<a href="https://sourcerer.io/rupieeroo"><img src="https://img.shields.io/badge/JavaScript-513%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rupieeroo"><img src="https://img.shields.io/badge/Ruby-243%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rupieeroo"><img src="https://img.shields.io/badge/Python-60%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rupieeroo"><img src="https://img.shields.io/badge/SQL-17%20commits-orange.svg" alt=""></a>
+
 | Projects         | Description                                                                                                         | Technology                                         | GitHub                                          | Site                                        |
 |------------------|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------------------------------------------|---------------------------------------------|
 | Expensify App    | An Expenses manager web app built in React with Redux.                                                              | React, Redux, Node.JS, Webpack, SCSS, Jest, Enzyme, Firebase | [GitHub](https://github.com/Rupieeroo/Expensify-App)      | [Expensify](https://expensify-app-rupiee.herokuapp.com/) |
