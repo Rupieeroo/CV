@@ -6,9 +6,11 @@ Having trained at the National Youth Theatre of Great Britain and spending my ea
 ### Technologies and Processes
 <a href="https://sourcerer.io/rupieeroo"><img src="https://img.shields.io/badge/JavaScript-513%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rupieeroo"><img src="https://img.shields.io/badge/Ruby-243%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rupieeroo"><img src="https://img.shields.io/badge/Python-60%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rupieeroo"><img src="https://img.shields.io/badge/SQL-17%20commits-orange.svg" alt=""></a>
 
-Tech: React, JavaScript, Ruby, Rails
-Testing frameworks: Jasmine, Cypress, pytest,
-Processes: Agile methodology, behaviour driven development, Test Driven Development, XP Values. 
+**Tech:** React, JavaScript, Ruby, Rails, Python
+
+**Testing frameworks:** Jasmine, Jest, Enzyme, Cypress, pytest
+
+**Processes:** Agile methodology, behaviour driven development, Test Driven Development, XP Values. 
 
 | Projects         | Description                                                                                                         | Technology                                         | GitHub                                          | Site                                        |
 |------------------|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------------------------------------------|---------------------------------------------|
