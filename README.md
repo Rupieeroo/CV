@@ -71,6 +71,6 @@ I was a journeyman actor performing in multiple stage productions across London 
 
 I am a massive geek:  I have an encyclopedic knowledge of Lovecraft, Video Game Lore and Eastern-European History (Ask me about the Battle of Karánsebes).
 
-I am teaching myself graphic design: I have a couple of Udemy courses in tow in Graphic design, drawing, character animation and Unity development. I’ve made a poster in the form of a Nintendo game cover for a West-End Musical to my #Imbuildingatower project on Instagram: @Rupieeroo. I also am a new member of Data Visualisation London and attend their meet-ups whenever possible
+I am teaching myself graphic design: I have a couple of Udemy courses in tow in Graphic design, drawing, character animation and Unity development. I’ve made a poster in the form of a Nintendo game cover for a West-End Musical to my #Imbuildingatower project on Instagram: @imbuildingatower. I also am a new member of Data Visualisation London and attend their meet-ups whenever possible
 
 I have a terrier named Steve: . I have taught him tricks and I think that his hi-five might be my proudest achievement to date.
